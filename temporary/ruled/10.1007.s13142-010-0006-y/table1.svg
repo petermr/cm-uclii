@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="1000.0" width="1000.0" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <line x1="353.537" y1="106.369" x2="566.929" y2="106.369" id="line.0" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000000125;"/>
+  <line x1="145.134" y1="132.278" x2="566.929" y2="132.278" id="line.1" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <line x1="144.567" y1="65.238" x2="566.929" y2="65.238" id="line.2" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.3400000000000034;"/>
+  <line x1="144.567" y1="642.967" x2="566.929" y2="642.967" id="line.3" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.3969999999999345;"/>
+ </g>
+</svg>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="800.0" width="700.0" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <line x1="353.537" y1="106.369" x2="566.929" y2="106.369" id="line.3" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000000125;"/>
+  <circle cx="353.537" cy="106.369" r="2.0"/>
+  <circle cx="566.929" cy="106.369" r="2.0"/>
+  <line x1="145.134" y1="132.278" x2="566.929" y2="132.278" id="line.4" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="145.134" cy="132.278" r="2.0"/>
+  <circle cx="566.929" cy="132.278" r="2.0"/>
+  <line x1="273.77" y1="143.39" x2="566.929" y2="143.39" id="line.6" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="273.77" cy="143.39" r="2.0"/>
+  <circle cx="566.929" cy="143.39" r="2.0"/>
+  <line x1="273.77" y1="154.444" x2="566.929" y2="154.444" id="line.7" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28400000000002024;"/>
+  <circle cx="273.77" cy="154.444" r="2.0"/>
+  <circle cx="566.929" cy="154.444" r="2.0"/>
+  <line x1="273.77" y1="176.554" x2="566.929" y2="176.554" id="line.10" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.2839999999999918;"/>
+  <circle cx="273.77" cy="176.554" r="2.0"/>
+  <circle cx="566.929" cy="176.554" r="2.0"/>
+  <line x1="273.77" y1="187.61" x2="566.929" y2="187.61" id="line.11" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="273.77" cy="187.61" r="2.0"/>
+  <circle cx="566.929" cy="187.61" r="2.0"/>
+  <line x1="273.77" y1="209.721" x2="566.929" y2="209.721" id="line.14" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28299999999998704;"/>
+  <circle cx="273.77" cy="209.721" r="2.0"/>
+  <circle cx="566.929" cy="209.721" r="2.0"/>
+  <line x1="273.77" y1="220.832" x2="566.929" y2="220.832" id="line.15" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="273.77" cy="220.832" r="2.0"/>
+  <circle cx="566.929" cy="220.832" r="2.0"/>
+  <line x1="273.77" y1="242.943" x2="566.929" y2="242.943" id="line.18" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="273.77" cy="242.943" r="2.0"/>
+  <circle cx="566.929" cy="242.943" r="2.0"/>
+  <line x1="273.77" y1="253.997" x2="566.929" y2="253.997" id="line.19" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28400000000002024;"/>
+  <circle cx="273.77" cy="253.997" r="2.0"/>
+  <circle cx="566.929" cy="253.997" r="2.0"/>
+  <line x1="273.77" y1="276.107" x2="566.929" y2="276.107" id="line.22" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28400000000004866;"/>
+  <circle cx="273.77" cy="276.107" r="2.0"/>
+  <circle cx="566.929" cy="276.107" r="2.0"/>
+  <line x1="273.77" y1="287.163" x2="566.929" y2="287.163" id="line.23" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.2829999999999586;"/>
+  <circle cx="273.77" cy="287.163" r="2.0"/>
+  <circle cx="566.929" cy="287.163" r="2.0"/>
+  <line x1="145.134" y1="309.33" x2="566.929" y2="309.33" id="line.25" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="145.134" cy="309.33" r="2.0"/>
+  <circle cx="566.929" cy="309.33" r="2.0"/>
+  <line x1="273.77" y1="320.385" x2="566.929" y2="320.385" id="line.27" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="273.77" cy="320.385" r="2.0"/>
+  <circle cx="566.929" cy="320.385" r="2.0"/>
+  <line x1="273.77" y1="342.495" x2="566.929" y2="342.495" id="line.30" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="273.77" cy="342.495" r="2.0"/>
+  <circle cx="566.929" cy="342.495" r="2.0"/>
+  <line x1="273.77" y1="364.606" x2="566.929" y2="364.606" id="line.33" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="273.77" cy="364.606" r="2.0"/>
+  <circle cx="566.929" cy="364.606" r="2.0"/>
+  <line x1="273.77" y1="386.772" x2="566.929" y2="386.772" id="line.36" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="273.77" cy="386.772" r="2.0"/>
+  <circle cx="566.929" cy="386.772" r="2.0"/>
+  <line x1="273.77" y1="408.883" x2="566.929" y2="408.883" id="line.39" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="273.77" cy="408.883" r="2.0"/>
+  <circle cx="566.929" cy="408.883" r="2.0"/>
+  <line x1="273.77" y1="430.993" x2="566.929" y2="430.993" id="line.42" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="273.77" cy="430.993" r="2.0"/>
+  <circle cx="566.929" cy="430.993" r="2.0"/>
+  <line x1="273.77" y1="453.16" x2="566.929" y2="453.16" id="line.45" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="273.77" cy="453.16" r="2.0"/>
+  <circle cx="566.929" cy="453.16" r="2.0"/>
+  <line x1="273.77" y1="475.27" x2="566.929" y2="475.27" id="line.48" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="273.77" cy="475.27" r="2.0"/>
+  <circle cx="566.929" cy="475.27" r="2.0"/>
+  <line x1="273.77" y1="497.38" x2="566.929" y2="497.38" id="line.51" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="273.77" cy="497.38" r="2.0"/>
+  <circle cx="566.929" cy="497.38" r="2.0"/>
+  <line x1="273.77" y1="519.49" x2="566.929" y2="519.49" id="line.54" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.2819999999999254;"/>
+  <circle cx="273.77" cy="519.49" r="2.0"/>
+  <circle cx="566.929" cy="519.49" r="2.0"/>
+  <line x1="273.77" y1="541.658" x2="566.929" y2="541.658" id="line.57" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;"/>
+  <circle cx="273.77" cy="541.658" r="2.0"/>
+  <circle cx="566.929" cy="541.658" r="2.0"/>
+  <line x1="273.77" y1="552.712" x2="566.929" y2="552.712" id="line.58" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.2839999999999918;"/>
+  <circle cx="273.77" cy="552.712" r="2.0"/>
+  <circle cx="566.929" cy="552.712" r="2.0"/>
+  <line x1="144.567" y1="65.238" x2="566.929" y2="65.238" id="line.60" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.3400000000000034;"/>
+  <circle cx="144.567" cy="65.238" r="2.0"/>
+  <circle cx="566.929" cy="65.238" r="2.0"/>
+  <line x1="144.567" y1="642.967" x2="566.929" y2="642.967" id="line.61" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.3969999999999345;"/>
+  <circle cx="144.567" cy="642.967" r="2.0"/>
+  <circle cx="566.929" cy="642.967" r="2.0"/>
+  <line x1="145.134" y1="165.5" x2="566.929" y2="165.5" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28299999999998704;" id="line.5x"/>
+  <circle cx="145.134" cy="165.5" r="2.0"/>
+  <circle cx="566.929" cy="165.5" r="2.0"/>
+  <line x1="145.134" y1="198.665" x2="566.929" y2="198.665" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;" id="line.9x"/>
+  <circle cx="145.134" cy="198.665" r="2.0"/>
+  <circle cx="566.929" cy="198.665" r="2.0"/>
+  <line x1="145.134" y1="231.887" x2="566.929" y2="231.887" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.2839999999999918;" id="line.13x"/>
+  <circle cx="145.134" cy="231.887" r="2.0"/>
+  <circle cx="566.929" cy="231.887" r="2.0"/>
+  <line x1="145.134" y1="265.053" x2="566.929" y2="265.053" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;" id="line.17x"/>
+  <circle cx="145.134" cy="265.053" r="2.0"/>
+  <circle cx="566.929" cy="265.053" r="2.0"/>
+  <line x1="145.134" y1="298.275" x2="566.929" y2="298.275" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;" id="line.21x"/>
+  <circle cx="145.134" cy="298.275" r="2.0"/>
+  <circle cx="566.929" cy="298.275" r="2.0"/>
+  <line x1="145.134" y1="331.44" x2="566.929" y2="331.44" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;" id="line.26x"/>
+  <circle cx="145.134" cy="331.44" r="2.0"/>
+  <circle cx="566.929" cy="331.44" r="2.0"/>
+  <line x1="145.134" y1="353.549" x2="566.929" y2="353.549" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.2829999999999586;" id="line.29x"/>
+  <circle cx="145.134" cy="353.549" r="2.0"/>
+  <circle cx="566.929" cy="353.549" r="2.0"/>
+  <line x1="145.134" y1="375.717" x2="566.929" y2="375.717" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;" id="line.32x"/>
+  <circle cx="145.134" cy="375.717" r="2.0"/>
+  <circle cx="566.929" cy="375.717" r="2.0"/>
+  <line x1="145.134" y1="397.828" x2="566.929" y2="397.828" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;" id="line.35x"/>
+  <circle cx="145.134" cy="397.828" r="2.0"/>
+  <circle cx="566.929" cy="397.828" r="2.0"/>
+  <line x1="145.134" y1="419.938" x2="566.929" y2="419.938" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;" id="line.38x"/>
+  <circle cx="145.134" cy="419.938" r="2.0"/>
+  <circle cx="566.929" cy="419.938" r="2.0"/>
+  <line x1="145.134" y1="442.048" x2="566.929" y2="442.048" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;" id="line.41x"/>
+  <circle cx="145.134" cy="442.048" r="2.0"/>
+  <circle cx="566.929" cy="442.048" r="2.0"/>
+  <line x1="145.134" y1="464.214" x2="566.929" y2="464.214" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.2839999999999918;" id="line.44x"/>
+  <circle cx="145.134" cy="464.214" r="2.0"/>
+  <circle cx="566.929" cy="464.214" r="2.0"/>
+  <line x1="145.134" y1="486.325" x2="566.929" y2="486.325" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;" id="line.47x"/>
+  <circle cx="145.134" cy="486.325" r="2.0"/>
+  <circle cx="566.929" cy="486.325" r="2.0"/>
+  <line x1="145.134" y1="508.435" x2="566.929" y2="508.435" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;" id="line.50x"/>
+  <circle cx="145.134" cy="508.435" r="2.0"/>
+  <circle cx="566.929" cy="508.435" r="2.0"/>
+  <line x1="145.134" y1="530.601" x2="566.929" y2="530.601" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.2840000000001055;" id="line.53x"/>
+  <circle cx="145.134" cy="530.601" r="2.0"/>
+  <circle cx="566.929" cy="530.601" r="2.0"/>
+  <line x1="145.134" y1="563.767" x2="566.929" y2="563.767" style="clip-path:url(#clipPath1);fill:#131313;stroke:black;stroke-width:0.28300000000001546;" id="line.56x"/>
+  <circle cx="145.134" cy="563.767" r="2.0"/>
+  <circle cx="566.929" cy="563.767" r="2.0"/>
+ </g>
+</svg>
